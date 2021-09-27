@@ -1,0 +1,4 @@
+﻿  source.cpp
+c:\users\say\desktop\second_semester\blockchain\casear_cipher\casear_cipher\source.cpp(11): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  casear_cipher.vcxproj -> C:\Users\say\Desktop\second_semester\BlockChain\casear_cipher\Debug\casear_cipher.exe
+  casear_cipher.vcxproj -> C:\Users\say\Desktop\second_semester\BlockChain\casear_cipher\Debug\casear_cipher.pdb (Partial PDB)
