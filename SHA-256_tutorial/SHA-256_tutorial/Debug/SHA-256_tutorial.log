@@ -1,0 +1,6 @@
+﻿  source.cpp
+c:\users\say\desktop\second_semester\blockchain\sha-256_tutorial\sha-256_tutorial\source.cpp(57): warning C4838: 'unsigned int'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\say\desktop\second_semester\blockchain\sha-256_tutorial\sha-256_tutorial\source.cpp(65): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\say\desktop\second_semester\blockchain\sha-256_tutorial\sha-256_tutorial\source.cpp(67): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  SHA-256_tutorial.vcxproj -> C:\Users\say\Desktop\second_semester\BlockChain\SHA-256_tutorial\Debug\SHA-256_tutorial.exe
+  SHA-256_tutorial.vcxproj -> C:\Users\say\Desktop\second_semester\BlockChain\SHA-256_tutorial\Debug\SHA-256_tutorial.pdb (Partial PDB)
